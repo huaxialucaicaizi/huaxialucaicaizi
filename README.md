@@ -37,6 +37,9 @@
 
 ### 01 · 工作｜让复杂流程变简单
 
+- **[Nanako AI Marketing & Growth Map](https://github.com/huaxialucaicaizi/awesome-ai-marketing-growth)**  
+  按真实增长工作流整理 AI 营销与增长开源项目，覆盖市场研究、内容增长、获客、自动化、分析与实验。
+
 - **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill)**  
   把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
 
