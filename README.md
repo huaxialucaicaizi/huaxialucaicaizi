@@ -48,7 +48,7 @@
 - **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator)** · 一人公司政策导航  
   一人公司工具包第 3 步：按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。
 
-- **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)** · 园区路演教练  
+- **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)** · 路演教练  
   一人公司工具包第 4 步：写出限时路演稿，预演评委提问与回答。
 
 - **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook)** · 一人公司增长获客  
