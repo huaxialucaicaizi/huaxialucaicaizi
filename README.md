@@ -51,13 +51,14 @@
 - **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)**  
   一人公司工具包第 4 步：写出限时路演稿，预演评委提问与回答。
 
+- **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook)**  
+  一人公司工具包第 5 步：小红书、抖音、视频号冷启动增长，搭建漏斗、增长实验、内容日历和脚本，只用你自己的数据。
+
 - **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales)**  
   一人公司工具包第 6 步：从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。
 
 - **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance)**  
   一人公司工具包第 7 步：对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。
-
-- **一人公司工具包第 5 步 · 增长获客**：即将推出。
 
 ### 02 · 增长与营销从业者｜AI 驱动的增长工作流
 
