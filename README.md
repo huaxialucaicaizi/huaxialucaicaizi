@@ -33,23 +33,40 @@
 
 ## 我的项目地图
 
-我把 AI 用在三个地方：**提高工作效率、陪伴个人成长，以及解决生活里的小麻烦。**
+我把 AI 用在不同人群的真实需求上，每个项目都从一个具体问题出发。
 
-### 01 · 工作｜让复杂流程变简单
+### 01 · AI 创业者与一人公司｜从想法到上市的全流程
+
+从需求验证、商业计划到融资路演，帮独立创业者少走弯路。
+
+- **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation)**  
+  一人公司工具包第 1 步：桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。
+
+- **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill)**  
+  一人公司工具包第 2 步：把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
+
+- **一人公司工具包第 3–7 步**：政策与补贴、路演教练、增长获客、定价与成交、注册与合规，即将推出。
+
+### 02 · 增长与营销从业者｜AI 驱动的增长工作流
+
+覆盖市场研究、内容、获客、自动化和实验分析。
 
 - **[Nanako AI Marketing & Growth Map](https://github.com/huaxialucaicaizi/awesome-ai-marketing-growth)**  
   按真实增长工作流整理 AI 营销与增长开源项目，覆盖市场研究、内容增长、获客、自动化、分析与实验。
 
-- **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill)**  
-  把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
+### 03 · 内容创作者｜让内容生产更高效
+
+从选题、口播视频到活动复盘，把创作流程标准化。
+
+- **[AI Hotspot Video Skill](https://github.com/huaxialucaicaizi/ai-hotspot-video-skill)**  
+  AI 热点口播视频制作：口播理解、分镜设计、参考博主拆解、真实素材匹配、解释页与剪辑验收。
 
 - **[Event Recap Skill](https://github.com/huaxialucaicaizi/eventrecap-skill-cn)**  
   从会议纪要到公众号文章，串联内容整理、飞书文档、微信排版与封面制作。
 
-- **[Visa Form Copilot](https://github.com/huaxialucaicaizi/visa-form-copilot)**  
-  整理、检查并辅助填写多国签证申请表，让繁琐材料更清晰、更不容易出错。
+### 04 · 成长探索者｜从真实人物身上汲取判断与信念
 
-### 02 · 个人成长｜把经历变成行动的力量
+把真实经历提炼成可以借鉴的思考方式和行动逻辑。
 
 - **[Zhang Xue Skill](https://github.com/huaxialucaicaizi/zhangxue-skill-cn)**  
   从真实人物经历中提炼信念、判断方式与行动逻辑，陪伴那些正在追梦和寻找方向的人。
@@ -57,7 +74,12 @@
 - **[莫氏鸡煲 Skill](https://github.com/huaxialucaicaizi/moshijibao-skill-cn)**  
   从一家真实小店的经营故事里，理解取舍、节奏，以及一种不过度内耗的生活方式。
 
-### 03 · 生活小玩意儿｜给日常加一点趣味
+### 05 · 日常生活｜用 AI 解决身边的小麻烦
+
+填繁琐的表格，给工作日常添一点陪伴。
+
+- **[Visa Form Copilot](https://github.com/huaxialucaicaizi/visa-form-copilot)**  
+  整理、检查并辅助填写多国签证申请表，让繁琐材料更清晰、更不容易出错。
 
 - **[MiniRui Pet](https://github.com/huaxialucaicaizi/Codex-MiniRui-pet)** — 把自己的形象变成陪伴工作的桌面宠物
 - **[Cotton Pet](https://github.com/huaxialucaicaizi/Codex-Cotton-pet)** — 让一只小西高地住进桌面
