@@ -45,7 +45,19 @@
 - **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill)**  
   一人公司工具包第 2 步：把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
 
-- **一人公司工具包第 3–7 步**：政策与补贴、路演教练、增长获客、定价与成交、注册与合规，即将推出。
+- **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator)**  
+  一人公司工具包第 3 步：按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。
+
+- **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)**  
+  一人公司工具包第 4 步：写出限时路演稿，预演评委提问与回答。
+
+- **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales)**  
+  一人公司工具包第 6 步：从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。
+
+- **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance)**  
+  一人公司工具包第 7 步：对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。
+
+- **一人公司工具包第 5 步 · 增长获客**：即将推出。
 
 ### 02 · 增长与营销从业者｜AI 驱动的增长工作流
 
