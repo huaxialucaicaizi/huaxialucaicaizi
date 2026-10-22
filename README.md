@@ -39,6 +39,9 @@
 
 从需求验证、商业计划到融资路演，帮独立创业者少走弯路。
 
+- **[AI Startup Skills](https://github.com/huaxialucaicaizi/ai-startup-skills) · AI 创业 Skill 包**  
+  一人公司工具包全套合集：把第 1–7 步装进一个仓库，一次安装，按创业阶段自动带你到对应 Skill。
+
 - **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) · AI 产品 MVP 验证**  
   一人公司工具包第 1 步：桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。
 
