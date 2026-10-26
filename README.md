@@ -1,5 +1,5 @@
-我是菜菜子，一名 **AI 产品 Product Growth**，也是一名把想法做成产品的 AI Builder。也是深圳大学、香港城市大学 AI 客座嘉宾（已做过相关分享/讲座）。  
-I'm Caicaizi — an **AI Product Growth** practitioner, an AI Builder who turns ideas into products, and a guest AI speaker at Shenzhen University and City University of Hong Kong (with talks already given).
+我是菜菜子，一名 **AI 产品 Product Growth**，也是一名把想法做成产品的 AI Builder。也是深圳大学、香港城市大学 AI 客座嘉宾。  
+I'm Caicaizi — an **AI Product Growth** practitioner, an AI Builder who turns ideas into products, and a guest AI speaker at Shenzhen University and City University of Hong Kong.
 
 过去，我在字节跳动和腾讯积累了国内 AI 产品增长实践，关注用户洞察、内容与渠道、产品激活和长期留存。  
 Previously, I built hands-on AI product growth experience in China at ByteDance and Tencent, focusing on user insight, content and channels, product activation, and long-term retention.
