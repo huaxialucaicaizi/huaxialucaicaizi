@@ -1,19 +1,8 @@
 ### 开源成绩
 
-[![ai-startup-skills](https://img.shields.io/github/stars/huaxialucaicaizi/ai-startup-skills?style=social)](https://github.com/huaxialucaicaizi/ai-startup-skills)
-[![business-plan-skill](https://img.shields.io/github/stars/huaxialucaicaizi/business-plan-skill?style=social)](https://github.com/huaxialucaicaizi/business-plan-skill)
+[![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi?style=social)](https://github.com/huaxialucaicaizi?tab=repositories&type=source)
 
-- **[AI Startup Skills](https://github.com/huaxialucaicaizi/ai-startup-skills) · AI 创业 Skill 包** — 一人公司 7 步合集（星标会随徽章自动更新）
-- **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill) · 商业计划书** — 商业计划与路演材料工作流
-
-<p>
-  <a href="https://github.com/huaxialucaicaizi/ai-startup-skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huaxialucaicaizi&repo=ai-startup-skills&theme=transparent&hide_border=true" alt="ai-startup-skills" height="90" />
-  </a>
-  <a href="https://github.com/huaxialucaicaizi/business-plan-skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huaxialucaicaizi&repo=business-plan-skill&theme=transparent&hide_border=true" alt="business-plan-skill" height="90" />
-  </a>
-</p>
+账号下公开仓库星标合计（自动更新）
 
 我是菜菜子，一名 **AI 产品 Product Growth**，也是一名把想法做成产品的 AI Builder。也是深圳大学、香港城市大学 AI 客座嘉宾。
 
