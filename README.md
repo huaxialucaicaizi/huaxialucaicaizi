@@ -2,8 +2,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi?style=social)](https://github.com/huaxialucaicaizi?tab=repositories&type=source)
 [![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhuaxialucaicaizi&query=%24.public_repos&label=Repos&style=social&logo=github)](https://github.com/huaxialucaicaizi?tab=repositories)
+[![GitHub forks](https://img.shields.io/github/forks/huaxialucaicaizi?style=social)](https://github.com/huaxialucaicaizi?tab=repositories&type=source)
 
-公开仓库数与星标合计（自动更新）
+公开仓库数、星标与 Fork 合计（自动更新）
 
 我是菜菜子，一名 **AI 产品 Product Growth**，也是一名把想法做成产品的 AI Builder。也是深圳大学、香港城市大学 AI 客座嘉宾。
 
