@@ -4,8 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi?style=social)](https://github.com/huaxialucaicaizi?tab=repositories&type=source)
 [![Forks](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhuaxialucaicaizi%2Fhuaxialucaicaizi%2Fmain%2Fstats.json&query=%24.forks&label=Forks&style=social&logo=github)](https://github.com/huaxialucaicaizi?tab=repositories&type=source)
 
-星标与仓库数自动更新；Fork 数字来自 stats.json，需要时刷新
-
 我是菜菜子，一名 **AI 产品 Product Growth**，也是一名把想法做成产品的 AI Builder。也是深圳大学、香港城市大学 AI 客座嘉宾。
 
 过去，我在字节跳动和腾讯积累了国内 AI 产品增长实践，关注用户洞察、内容与渠道、产品激活和长期留存。
