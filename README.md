@@ -38,7 +38,18 @@
 给刚开始用 AI 的人：知道去哪学、在自己的工作里用起来，再一步步做出第一个作品。
 
 - **[AI From Zero](https://github.com/huaxialucaicaizi/ai-from-zero) · 零基础学 AI**（建设中）  
-  一个仓库装下 6 个 Skill：AI 信息源、我的岗位怎么用 AI、安装报错医生、提示词教练、做自己的 Skill、第一个作品。
+  一个仓库装下 6 个 Skill，按学习路径一步步来。
+
+包含 6 个 Skill：
+
+| 步骤 | Skill | 做什么 |
+| --- | --- | --- |
+| 第 1 步 | **ai-sources · AI 信息源** | 去哪学 AI：官方课程与可靠信息源导航，帮你避开坑课。 |
+| 第 2 步 | **ai-for-my-job · 我的岗位怎么用 AI** | 按你的岗位找出 AI 能帮上忙的工作。 |
+| 第 3 步 | **setup-doctor · 安装报错医生** | 装 AI 工具时遇到报错，对照官方资料一步步排障。 |
+| 第 4 步 | **prompt-coach · 提示词教练** | 带你把问题问清楚，写出更好用的提示词。 |
+| 第 5 步 | **skill-maker · 做自己的 Skill** | 把你常做的工作封装成可复用的 Skill。 |
+| 第 6 步 | **first-build · 做出第一个作品** | 从一个小问题出发，用 AI 做出你的第一个作品。 |
 
 ### 02 · 打工人办公｜AI 办公 Skills 套装
 
@@ -47,8 +58,14 @@
 - **AI Office Skills · 打工人办公 Skill 套装**（建设中）  
   办公合集：PPT、数据分析、设计、视频四类 Skill 一次安装。
 
-- **[AI Video Skills](https://github.com/huaxialucaicaizi/ai-video-skills) · AI 视频 Skill**（建设中）  
-  口播、科普讲解等视频的制作工作流。
+包含 4 个子仓库，也可单独安装：
+
+| 类别 | Skill | 做什么 |
+| --- | --- | --- |
+| 视频 | **[AI Video Skills](https://github.com/huaxialucaicaizi/ai-video-skills) · AI 视频 Skill**（建设中） | 口播、科普讲解等视频的制作工作流。 |
+| PPT | **PPT Skill**（规划中） | 把内容整理成清晰的 PPT。 |
+| 数据分析 | **数据分析 Skill**（规划中） | 用 AI 做表格和数据分析。 |
+| 设计 | **设计 Skill**（规划中） | 日常办公物料的设计。 |
 
 ### 03 · AI 创业者与一人公司｜从想法到上市的全流程
 
