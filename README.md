@@ -38,7 +38,7 @@
 给刚开始用 AI 的人：知道去哪学、在自己的工作里用起来，再一步步做出第一个作品。
 
 - **[AI From Zero](https://github.com/huaxialucaicaizi/ai-from-zero) · 零基础学 AI**（建设中）  
-  一个仓库装下 6 个 Skill：AI 信息源、我的岗位怎么用 AI、安装报错医生、提示词教练、第一个作品、做自己的 Skill。
+  一个仓库装下 6 个 Skill：AI 信息源、我的岗位怎么用 AI、安装报错医生、提示词教练、做自己的 Skill、第一个作品。
 
 ### 02 · 打工人办公｜AI 办公 Skills 套装
 
