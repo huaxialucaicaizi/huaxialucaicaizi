@@ -57,26 +57,17 @@
 - **[AI Startup Skills](https://github.com/huaxialucaicaizi/ai-startup-skills) · AI 创业 Skill 包**  
   一人公司工具包全套合集：把第 1–7 步装进一个仓库，一次安装，按创业阶段自动带你到对应 Skill。
 
-- **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) · AI 产品 MVP 验证**  
-  一人公司工具包第 1 步：桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。
+  包含 7 个子 Skill，也可单独安装：
 
-- **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill) · 商业计划书**  
-  一人公司工具包第 2 步：把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
-
-- **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) · 一人公司政策导航**  
-  一人公司工具包第 3 步：按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。
-
-- **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) · 路演教练**  
-  一人公司工具包第 4 步：写出限时路演稿，预演评委提问与回答。
-
-- **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) · 一人公司增长获客**  
-  一人公司工具包第 5 步：小红书、抖音、视频号冷启动增长，搭建漏斗、增长实验、内容日历和脚本，只用你自己的数据。
-
-- **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) · 定价与成交**  
-  一人公司工具包第 6 步：从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。
-
-- **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) · 一人公司注册与合规**  
-  一人公司工具包第 7 步：对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。
+  | 步骤 | Skill | 做什么 |
+  | --- | --- | --- |
+  | 第 1 步 | **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) · AI 产品 MVP 验证** | 桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。 |
+  | 第 2 步 | **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill) · 商业计划书** | 把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。 |
+  | 第 3 步 | **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) · 一人公司政策导航** | 按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。 |
+  | 第 4 步 | **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) · 路演教练** | 写出限时路演稿，预演评委提问与回答。 |
+  | 第 5 步 | **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) · 一人公司增长获客** | 小红书、抖音、视频号冷启动增长，搭建漏斗、增长实验、内容日历和脚本，只用你自己的数据。 |
+  | 第 6 步 | **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) · 定价与成交** | 从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。 |
+  | 第 7 步 | **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) · 一人公司注册与合规** | 对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。 |
 
 ## 我相信
 
