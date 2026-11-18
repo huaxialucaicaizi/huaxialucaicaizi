@@ -33,70 +33,58 @@
 
 我把 AI 用在不同人群的真实需求上，每个项目都从一个具体问题出发。
 
-### 01 · AI 创业者与一人公司｜从想法到上市的全流程
+### 01 · 零基础学 AI｜从第一句提示词到做出自己的 Skill，再 vibe coding 出自己的作品
+
+给刚开始用 AI 的人：知道去哪学、在自己的工作里用起来，再一步步做出第一个作品。
+
+- **[AI From Zero](https://github.com/huaxialucaicaizi/ai-from-zero) · 零基础学 AI**（建设中）  
+  一个仓库装下 6 个 Skill，按学习路径一步步来。
+
+包含 6 个 Skill：
+
+| 步骤 | Skill | 做什么 |
+| --- | --- | --- |
+| 第 1 步 | **ai-sources · AI 信息源** | 跟谁学 AI：科技媒体、博主和课程推荐。 |
+| 第 2 步 | **ai-for-my-job · 我的岗位怎么用 AI** | 按你的岗位找出 AI 能帮上忙的工作。 |
+| 第 3 步 | **setup-doctor · 安装报错医生** | 装 AI 工具时遇到报错，对照官方资料一步步排障。 |
+| 第 4 步 | **prompt-coach · 提示词教练** | 带你把问题问清楚，写出更好用的提示词。 |
+| 第 5 步 | **skill-maker · 做自己的 Skill** | 把你常做的工作封装成可复用的 Skill。 |
+| 第 6 步 | **first-build · 做出第一个作品** | 从一个小问题出发，用 AI 做出你的第一个作品。 |
+
+### 02 · 打工人办公｜AI 办公 Skills 套装
+
+把做 PPT、数据分析、设计和视频这些日常办公活，变成可以直接调用的 Skill。每类单独一个仓库，最后打包成合集。
+
+- **AI Office Skills · 打工人办公 Skill 套装**（建设中）  
+  办公合集：PPT、数据分析、设计、视频四类 Skill 一次安装。
+
+包含 4 个子仓库，也可单独安装：
+
+| 类别 | Skill | 做什么 |
+| --- | --- | --- |
+| 视频 | **[AI Video Skills](https://github.com/huaxialucaicaizi/ai-video-skills) · AI 视频 Skill**（建设中） | 口播、科普讲解等视频的制作工作流。 |
+| PPT | **PPT Skill**（规划中） | 把内容整理成清晰的 PPT。 |
+| 数据分析 | **数据分析 Skill**（规划中） | 用 AI 做表格和数据分析。 |
+| 设计 | **设计 Skill**（规划中） | 日常办公物料的设计。 |
+
+### 03 · AI 创业者与一人公司｜从想法到上市的全流程
 
 从需求验证、商业计划到融资路演，帮独立创业者少走弯路。
 
 - **[AI Startup Skills](https://github.com/huaxialucaicaizi/ai-startup-skills) · AI 创业 Skill 包**  
   一人公司工具包全套合集：把第 1–7 步装进一个仓库，一次安装，按创业阶段自动带你到对应 Skill。
 
-- **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) · AI 产品 MVP 验证**  
-  一人公司工具包第 1 步：桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。
+包含 7 个子 Skill，也可单独安装：
 
-- **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill) · 商业计划书**  
-  一人公司工具包第 2 步：把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。
-
-- **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) · 一人公司政策导航**  
-  一人公司工具包第 3 步：按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。
-
-- **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) · 路演教练**  
-  一人公司工具包第 4 步：写出限时路演稿，预演评委提问与回答。
-
-- **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) · 一人公司增长获客**  
-  一人公司工具包第 5 步：小红书、抖音、视频号冷启动增长，搭建漏斗、增长实验、内容日历和脚本，只用你自己的数据。
-
-- **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) · 定价与成交**  
-  一人公司工具包第 6 步：从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。
-
-- **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) · 一人公司注册与合规**  
-  一人公司工具包第 7 步：对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。
-
-### 02 · 增长与营销从业者｜AI 驱动的增长工作流
-
-覆盖市场研究、内容、获客、自动化和实验分析。
-
-- **[Nanako AI Marketing & Growth Map](https://github.com/huaxialucaicaizi/awesome-ai-marketing-growth) · AI 营销增长地图**  
-  按真实增长工作流整理 AI 营销与增长开源项目，覆盖市场研究、内容增长、获客、自动化、分析与实验。
-
-### 03 · 内容创作者｜让内容生产更高效
-
-从选题、口播视频到活动复盘，把创作流程标准化。
-
-- **[AI Hotspot Video Skill](https://github.com/huaxialucaicaizi/ai-hotspot-video-skill) · AI 热点口播视频**  
-  AI 热点口播视频制作：口播理解、分镜设计、参考博主拆解、真实素材匹配、解释页与剪辑验收。
-
-- **[Event Recap Skill](https://github.com/huaxialucaicaizi/eventrecap-skill-cn) · 活动复盘**  
-  从会议纪要到公众号文章，串联内容整理、飞书文档、微信排版与封面制作。
-
-### 04 · 成长探索者｜从真实人物身上汲取判断与信念
-
-把真实经历提炼成可以借鉴的思考方式和行动逻辑。
-
-- **[Zhang Xue Skill](https://github.com/huaxialucaicaizi/zhangxue-skill-cn) · 张雪 Skill**  
-  从真实人物经历中提炼信念、判断方式与行动逻辑，陪伴那些正在追梦和寻找方向的人。
-
-- **[莫氏鸡煲 Skill](https://github.com/huaxialucaicaizi/moshijibao-skill-cn)**  
-  从一家真实小店的经营故事里，理解取舍、节奏，以及一种不过度内耗的生活方式。
-
-### 05 · 日常生活｜用 AI 解决身边的小麻烦
-
-填繁琐的表格，给工作日常添一点陪伴。
-
-- **[Visa Form Copilot](https://github.com/huaxialucaicaizi/visa-form-copilot) · 签证填表助手**  
-  整理、检查并辅助填写多国签证申请表，让繁琐材料更清晰、更不容易出错。
-
-- **[MiniRui Pet](https://github.com/huaxialucaicaizi/Codex-MiniRui-pet) · MiniRui 桌面宠物** — 把自己的形象变成陪伴工作的桌面宠物
-- **[Cotton Pet](https://github.com/huaxialucaicaizi/Codex-Cotton-pet) · Cotton 桌面宠物** — 让一只小西高地住进桌面
+| 步骤 | Skill | 做什么 |
+| --- | --- | --- |
+| 第 1 步 | **[AI MVP Validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) · AI 产品 MVP 验证** | 桌面调研 + 用户访谈 + Meta 广告测试，给出继续 / 调整 / 放弃结论。 |
+| 第 2 步 | **[Business Plan Skill](https://github.com/huaxialucaicaizi/business-plan-skill) · 商业计划书** | 把商业计划书、路演材料和项目介绍沉淀为一致、可复用的工作流。 |
+| 第 3 步 | **[OPC Policy Navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) · 一人公司政策导航** | 按城市、行业和阶段，从全国与北上广深政策库中找出可申请的政策，每条附官方链接。 |
+| 第 4 步 | **[AI Pitch Coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) · 路演教练** | 写出限时路演稿，预演评委提问与回答。 |
+| 第 5 步 | **[OPC Growth Playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) · 一人公司增长获客** | 小红书、抖音、视频号冷启动增长，搭建漏斗、增长实验、内容日历和脚本，只用你自己的数据。 |
+| 第 6 步 | **[OPC Pricing & Sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) · 定价与成交** | 从成本、竞品和客户价值算出价格区间，设计套餐、报价与成交流程。 |
+| 第 7 步 | **[OPC Registration & Compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) · 一人公司注册与合规** | 对比个体户、个人独资与一人有限公司，列出登记材料和年度合规日历（非法律意见）。 |
 
 ## 我相信
 
